@@ -4,3 +4,5 @@
 2. Insert URL in app.js
 3. Run _npm install_ in terminal
 4. Run _npm run dev_ to start Vite dev server
+
+![Screenshot](Screen_Shot.png)
